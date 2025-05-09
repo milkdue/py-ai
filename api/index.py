@@ -22,7 +22,7 @@ class handler(BaseHTTPRequestHandler):
                     data=html_content,
                     mime_type="text/html",
                 ),
-                "根据网页内容生成一个摘要"
+                "根据网页内容生成一个摘要并以一个段落进行回答"
             ]
         )
         self.send_response(200)
