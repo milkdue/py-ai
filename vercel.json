@@ -5,7 +5,7 @@
             "headers": [
                 {
                     "key": "Access-Control-Allow-Origin",
-                    "value": "*"
+                    "value": "https://blog.keyiqingxin.cn"
                 },
                 {
                     "key": "Access-Control-Allow-Headers",
